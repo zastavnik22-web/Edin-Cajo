@@ -1,5 +1,5 @@
 "use client";
-import { ArrowRight, Cloud, Download, Linkedin, Mail, MapPin, Menu, Server, ShieldCheck, Workflow, X } from "lucide-react";
+import { ArrowRight, Cloud, Download, Mail, MapPin, Menu, Server, ShieldCheck, Workflow, X } from "lucide-react";
 import { useState } from "react";
 const skills=[
  {icon:Server,title:"IT Operations",text:"ITIL-led service operations, infrastructure reliability, incident, problem and change management."},
